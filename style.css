@@ -1,0 +1,30 @@
+body{
+	background-image: url("https://i.pinimg.com/originals/e2/3d/9c/e23d9cb44dd465c75ac4455c81a07a50.jpg");
+	
+	text-align: center;
+
+	display: flex;
+	flex-direction: column;
+
+}
+
+#app{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	position: relative;
+	margin-top:  15%;
+	
+}
+
+p {
+	font-family: "Lucida Console", Monaco, monospace;
+	padding: 10px;
+	font-size: 45px;
+	
+}
+
+span {
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 65px;
+}
